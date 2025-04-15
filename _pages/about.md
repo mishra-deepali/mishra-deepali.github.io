@@ -1,13 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "Deepali Mishra"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<span style="color:#D2691E"><strong>Deepali Mishra</strong></span>
+
 
 
 
