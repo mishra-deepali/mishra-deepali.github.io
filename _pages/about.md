@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Deepali Mishra"
 author_profile: true
 redirect_from:
