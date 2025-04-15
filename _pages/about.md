@@ -1,11 +1,15 @@
 ---
-permalink: /
-<span style="color:#D2691E">Deepali Mishra</span
+permalink: /about/
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+<span style="color:#D2691E"><strong>Deepali Mishra</strong></span>
+
+
 
 I am a dual doctoral student currently pursuing my PhD in Data Science and Artificial Intelligence under the joint supervision of [Dr. Chaklam Silpasuwanchai]([url](http://www.chaklam.com/)) at the[ Asian Institute of Technology (AIT)]([url](https://ait.ac.th/)), Thailand, and [Dr. Ashutosh Modi]((https://ashutosh-modi.github.io/)) at the [Indian Institute of Technology (IIT) Kanpur]([url](https://www.iitk.ac.in/)), India.
 
