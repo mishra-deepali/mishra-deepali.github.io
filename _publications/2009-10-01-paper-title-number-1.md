@@ -2,7 +2,7 @@
 title: "Upcoming Research Paper"
 collection: publications
 category: manuscripts
-permalink: /publication/coming-soon/
+permalink: /publication/
 excerpt: 'This is a placeholder for upcoming publications. Please check back later for updates.'
 date: 2025-01-01
 venue: 'To be announced'
